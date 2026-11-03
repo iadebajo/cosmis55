@@ -1,0 +1,6 @@
+{
+  "name": "MockupCraft - Logo & Product Mockup Studio",
+  "description": "Upload your logo to preview on realistic product mockups like mugs, t-shirts, apparel, and merchandise, or generate high-quality custom product mockups with Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
